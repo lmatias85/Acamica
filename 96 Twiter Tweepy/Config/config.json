@@ -1,0 +1,9 @@
+{
+    "API_KEY": "iZESYdeQgaXgJkQJR5yFtsgFh",
+    "API_SECRET": "mhSRqwX1Xfu3ZciBtspWhk6krGyjNOAiNU8ykqXTBeGWq3Mj6F",
+    "ACCESS_TOKEN": "2302002180-4d0ByXp8z7OeGIJloHAzNpsTT86WK5QyhiyTqVv",
+    "ACCESS_TOKEN_SECRET": "DMWVYonh2q2UXn7rI4v84AiHX0vjQ4w7taVx3X8xc3Zw6",
+    "TERMS_FILE": "./Config/KeyWords.txt",
+    "TWEETS_STORAGE_PATH": "./Tweets/",
+    "RESULTS_STORAGE_PATH": "./Results/tweets_classification.csv"
+}

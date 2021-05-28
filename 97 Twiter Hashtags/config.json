@@ -1,0 +1,6 @@
+{
+    "TERMS_FILE": "KeyWords.txt",
+    "APP_KEY": "iZESYdeQgaXgJkQJR5yFtsgFh",
+    "APP_SECRET": "mhSRqwX1Xfu3ZciBtspWhk6krGyjNOAiNU8ykqXTBeGWq3Mj6F",
+    "STORAGE_PATH": "./Tweets/"
+}
